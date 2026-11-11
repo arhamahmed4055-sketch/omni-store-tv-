@@ -1,0 +1,6 @@
+{
+  "name": "OmniStore TV",
+  "description": "Alternative Android TV app store to sideload, manage, and auto-update custom media applications with cloud storage sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
